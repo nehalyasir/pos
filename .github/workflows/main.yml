@@ -13,4 +13,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: Copy files to sms
       run: |
-        cp -r /path/to/htdocs/Nehal/emp1/* /path/to/htdocs/Nehal/emp2/
+        cp -r /path/to/htdocs/Nehal/emp1/* /path/to/htdocs/Nehal/emp2/* /path/to/htdocs/Nehal/emp3/* /path/to/htdocs/Nehal/Emporium_franchise/
